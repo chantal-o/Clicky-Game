@@ -3,48 +3,48 @@
         "id": 1,
         "name": "Dog1",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charles-K4mSJ7kc0As-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charles-K4mSJ7kc0As-unsplash.jpg"
     },
     {
         "id": 2,
         "name": "Dog2",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=ipet-photo-eoqnr8ikwFE-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1537151608828-ea2b11777ee8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=ipet-photo-eoqnr8ikwFE-unsplash.jpg"
     },
     {
         "id": 3,
         "name": "Dog3",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charles-DziZIYOGAHc-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=charles-DziZIYOGAHc-unsplash.jpg"
     },
     {
         "id": 4,
         "name": "Dog4",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1530126483408-aa533e55bdb2?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=josephine-menge-h7VBJRBcieM-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1530126483408-aa533e55bdb2?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=josephine-menge-h7VBJRBcieM-unsplash.jpg"
     },
     {
         "id": 5,
         "name": "Dog5",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=oscar-sutton-yihlaRCCvd4-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=oscar-sutton-yihlaRCCvd4-unsplash.jpg"
     },
     {
         "id": 6,
         "name": "Dog6",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=james-barker-v3-zcCWMjgM-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=james-barker-v3-zcCWMjgM-unsplash.jpg"
     },
     {
         "id": 7,
         "name": "Dog7",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=alan-king-KZv7w34tluA-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=alan-king-KZv7w34tluA-unsplash.jpg"
     },
     {
         "id": 8,
         "name": "Dog8",
         "clicked": false,
-        "image": "https://images.unsplash.com/photo-1535745049887-3cd1c8aef237?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=sereja-ris-zGyG2OyLu4k-unsplash.png"
+        "image": "https://images.unsplash.com/photo-1535745049887-3cd1c8aef237?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=sereja-ris-zGyG2OyLu4k-unsplash.jpg"
     }
-    
+]

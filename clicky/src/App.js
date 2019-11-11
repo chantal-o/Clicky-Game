@@ -73,7 +73,8 @@ class App extends Component {
           correctIncorrect={this.state.correctIncorrect}
         />
         <Title>
-          you can only click on an image once. If you click on more than one image, game over!
+          You can only click on an image once.
+           If you click on more than one image, GAME OVER!
         </Title>
 
             {this.state.Dogs.map(Dog => (
